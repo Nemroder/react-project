@@ -1,0 +1,15 @@
+.TodoList {
+    margin: 0;
+    padding: 0 0 56px 0;
+    list-style: none;
+}
+
+ul {
+    margin: 0 auto 64px;
+    width: calc(100% - 62px);
+    padding: 0;
+    display: grid;
+    justify-content: center;
+    grid-auto-columns: 80%;
+
+}
